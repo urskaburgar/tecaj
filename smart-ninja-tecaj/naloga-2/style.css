@@ -1,0 +1,17 @@
+.blue {
+    color: blue;
+        }
+h2 {
+    color: red;
+        }
+
+body {
+    background-color: orange;
+        }
+
+.content-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 400px;
+        }

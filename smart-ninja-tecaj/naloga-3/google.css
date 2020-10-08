@@ -1,0 +1,57 @@
+.header {
+     text-align: right;
+}
+
+.header a {
+     margin-right: 20px;
+}
+
+.icon {
+     text-align: center;
+     margin-left: auto;
+     margin-right: auto;
+     padding-top: 12%;
+}
+
+.search {
+     position: relative;
+     text-align: center;
+     margin-left: auto;
+     margin-right: auto;
+     padding-top: 1em;
+}
+
+#bar{
+     width: 50%;
+     border-radius: 30px;
+     font-size: 20px;
+}
+.buttons {
+     text-align: center;
+     margin-left: auto;
+     margin-right: auto;
+     padding-top: 2em;
+}
+
+button{
+
+}
+
+.bottom-container {
+    width: 100%;
+    color: #808080;
+    background-color: #F5F5F5;
+    position: absolute;
+    bottom: 0;
+    padding-top: 1em;
+    padding-bottom:1em;
+}
+
+.bottom-container a {
+    margin-left: 20px;
+}
+
+body {
+    font-family: Arial;
+    font-size: 16px;
+}

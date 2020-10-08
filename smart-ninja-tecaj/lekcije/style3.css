@@ -1,0 +1,30 @@
+.header {
+      background-color: green;
+      height: 50px;
+      width: 100%;
+}
+h1, p {
+      margin: 0;
+}
+.main {
+      position: abstolute;
+      left: 0;
+      right: 0;
+      top: -30px;
+      background-color: red;
+      width: 50%;
+      margin: auto;
+      height: 100vh;
+}
+
+.fixed {
+      position: fixed;
+      bottom: 0;
+      right: 0;
+      background-color: #ffaa99;
+
+}
+
+.karkoli{
+      display: none;
+}

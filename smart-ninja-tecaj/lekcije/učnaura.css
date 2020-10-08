@@ -1,0 +1,37 @@
+body {
+     font-family: arial;
+}
+
+.container {
+     display: block;
+     text-align: center;
+     justify-content: center;
+     margin-top: 100px;
+}
+
+
+.header{
+     display: flex;
+     justify-content: flex-end;
+     align-items: center;
+
+}
+
+.header > a, .header i {
+      margin-right: 15px;
+      color: #111111;
+      text-decoration: none;
+}
+
+.header > a: hover{
+      text-decoration: underline;
+}
+
+.header> button {
+      border: none;
+      border-radius: 4px;
+      background-color: #4258f4;
+      color: white;
+      padding: 10px 15px;
+      font-weight: bold;
+}
